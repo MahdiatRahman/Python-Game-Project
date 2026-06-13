@@ -123,3 +123,10 @@ Through this project, I gained practical experience in:
 - Pause and restart functionality
 
 ---
+##  Authors
+
+- Mahdiat Rahman
+- Md. Golam Rabbani Sajib
+- Rabeta Tanjum Arni
+
+---
